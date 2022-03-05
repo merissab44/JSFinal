@@ -7,8 +7,7 @@ import Band from './components/Band';
 function App() {
   return (
     <>
-      {/* <Heading/> */}
-      {/* <Band /> */}
+      <Heading/>
       <MetalMeta/>
     </>
   );
