@@ -4,6 +4,7 @@
     border: 1px solid white;
     padding: 10px;
     margin-left: 10px;
+    color: white;
 }
 .likes{
     display: flex;
