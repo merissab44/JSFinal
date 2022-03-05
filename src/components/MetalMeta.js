@@ -4,9 +4,6 @@ import Band from './Band';
 import './MetalMeta.css';
 
 function MetalMeta(props) {
-    // get the length of bands
-    // map each band to a Band component
-    // return the Band components
     const bands = data.map((band, i) => {
         return <Band key={i} {...band} />
     })
