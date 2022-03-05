@@ -6,6 +6,9 @@
     margin-left: 10px;
     color: white;
 }
+h2{
+    text-align: center;
+}
 .likes{
     display: flex;
     justify-content: space-evenly;
