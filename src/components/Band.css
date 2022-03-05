@@ -1,0 +1,18 @@
+.Band{
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;
+    padding: 10px;
+    margin-left: 10px;
+}
+.likes{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    width: 40px;
+    height: 40px;
+    background-color: #3d3d3d;
+    border: none;
+    border-radius: 5px;
+}
